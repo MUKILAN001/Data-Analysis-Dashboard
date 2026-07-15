@@ -2,7 +2,7 @@
 Project Objective
 The Vrinda Store wants to create an annual sales report for 2025. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2026 & 2027.
 
-##Dataset used
+##DATASET USED
 <a href="https://github.com/MUKILAN001/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">DATA SET</a>
 
 ##Questions (KPIs)
